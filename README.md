@@ -1,10 +1,5 @@
-# Password-Manager-using-Fernet-Encyrption-Methodology
+# Password-Manager-using-Fernet-Encyrption-Methodology[CSC 8224 Project
 A) This respository contains project code required as such for CSC 8224 Cryptography Subject. 
-
-1) Team Members:
-1) Kausthub Kodamagulla
-2) Divya Sri Chakravararm
-3) Pooja sri Gadde
 
 1)To run the project , First unzip the project folder “Crypto8224-Project” 
 
